@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me: 
 <a href="#" >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/athul-k-kumar-771389216/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
 
 
 
