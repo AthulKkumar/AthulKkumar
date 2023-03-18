@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💬 Ask me about : Dev Talks
-- <hr>
+ <hr>
 
 ### Tool I used:
 
