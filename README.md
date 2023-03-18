@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **Tool I used:**  
 
 
-![Python]([https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript]([https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![Html]([https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
