@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💬 Ask me about : Dev Talks
+- <hr>
 
 ### Tool I used:
 
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-
+<hr>
 ### 📫 How to reach me: 
 <a href="#" >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/athul-k-kumar-771389216/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
