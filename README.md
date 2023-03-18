@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on MERN stack
 - 💬 Ask me about : Dev Talks
  <hr>
 
