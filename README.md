@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MERN stack
 - 💬 Ask me about : Dev Talks
 
+<p align = 'center'>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AthulKkumar&theme=merko&mode=weekly)](https://git.io/streak-stats)
-
+</p>
  <hr>
 
 ### Tool I used:
