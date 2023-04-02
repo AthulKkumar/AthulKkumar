@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MERN stack
 - 💬 Ask me about : Dev Talks
 
-<div style="display: flex; flex-direction: row;">
+<div style=" width:50% ; display: flex; flex-direction: row;">
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AthulKkumar&theme=merko&mode=weekly)](https://git.io/streak-stats)
 
