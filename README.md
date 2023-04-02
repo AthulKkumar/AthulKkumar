@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <div style=" width:50% ; display: flex; flex-direction: row;">
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AthulKkumar&theme=merko&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthulKkumar&theme=dark&hide_progress=true)](https://github.com/AthulKkumar/github-readme-stats)
+
 
 </div>
  <hr>
