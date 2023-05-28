@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on MERN stack
 - 💬 Ask me about : Dev Talks
 
+[![An image of @athul_k_kumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/athul_k_kumar)](https://holopin.io/@athul_k_kumar)
+
 <div style=" width:50% ; display: flex; flex-direction: row;">
  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AthulKkumar&theme=merko&mode=weekly)](https://git.io/streak-stats)
@@ -53,7 +55,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![An image of @athul_k_kumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/athul_k_kumar)](https://holopin.io/@athul_k_kumar)
 
 ### 📫 How to reach me: 
 <a href="#" >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a>
