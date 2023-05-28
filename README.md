@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 <hr>
 
+[![An image of @athul_k_kumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/athul_k_kumar)](https://holopin.io/@athul_k_kumar)
+
 ### 📫 How to reach me: 
 <a href="#" >![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/athul-k-kumar-771389216/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
