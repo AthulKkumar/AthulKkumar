@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Athul K Kumar from ....<br><br>- 🔭 I’m working as Fullstack Developer<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Athul K Kumar <br><br>- 🔭 I’m working as Fullstack Developer<br>- 📚 I'm currently learning Fullstack(cloud)<br>- ⚡ In my free time I just lay down doding nothing</p>
 
 ###
 
