@@ -1,5 +1,5 @@
 <div align="center">
-  [relative_path_to_your_gif.gif](https://lottie.host/embed/7f2ead25-d385-4c4d-a6dc-fbef178e4ca8/k4HE2fRVYJ.json)
+  ![relative_path_to_your_gif.gif](https://lottie.host/embed/7f2ead25-d385-4c4d-a6dc-fbef178e4ca8/k4HE2fRVYJ.json)
 </div>
 
 ###
