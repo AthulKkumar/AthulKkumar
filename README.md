@@ -1,5 +1,7 @@
 <div align="center">
-  ![Lottie Animation](https://lottie.host/embed/7f2ead25-d385-4c4d-a6dc-fbef178e4ca8/k4HE2fRVYJ.json)
+  <script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+
+    <dotlottie-player src="https://lottie.host/cc332288-f810-4858-a5bf-0cf5f3942186/2yWc6mj7xA.lottie" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 </div>
 
 ###
