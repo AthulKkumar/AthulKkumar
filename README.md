@@ -60,9 +60,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="left" >
 <a href="https://github.com/AthulKkumar" >
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AthulKkumar&theme=github_dark" height="180em" width='50%' />
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AthulKkumar&theme=github_dark" height="180em" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AthulKkumar&theme=github_dark" height="180em" />
+    </td>
+  </tr>
+</table>
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AthulKkumar&theme=github_dark" height="180em" width='50%' />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AthulKkumar&theme=github-compact"/>
